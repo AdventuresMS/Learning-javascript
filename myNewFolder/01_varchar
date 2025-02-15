@@ -1,0 +1,12 @@
+const accountId = 12322524
+let accountEmail = "monikapratima7870@gmail.com"
+var accountPassword = "12542"
+accountCity = "patna"
+//accountId = 2
+console.log(accountId);
+accountEmail = "monikasingh31k@gmial.com"
+accountPassword="4562"
+accountCity="bengal"
+ console.table([accountCity,accountId,accountEmail,accountPassword])
+/*
+prefer not to use var because of issue in block scope and functional scope*/
